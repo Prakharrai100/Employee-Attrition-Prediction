@@ -1,1 +1,1 @@
-# Employee-Attrition-Prediction
+This project focuses on predicting employee attrition using a machine learning approach with the Random Forest classifier. The workflow includes loading an HR dataset, preprocessing the data (handling categorical features and target encoding), performing stratified 4-fold cross-validation to assess model performance, and visualizing results such as the confusion matrix and feature importance. The final model is trained on the entire dataset, and the most influential features contributing to attrition are identified.
